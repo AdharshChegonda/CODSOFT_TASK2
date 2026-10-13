@@ -1,9 +1,6 @@
 import secrets
 import string
 
-print("===================================")
-print("      PASSWORD GENERATOR")
-print("===================================")
 
 length = int(input("Enter password length: "))
 
